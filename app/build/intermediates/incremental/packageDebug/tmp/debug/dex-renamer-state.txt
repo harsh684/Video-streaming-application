@@ -1,0 +1,4 @@
+#Wed Jun 02 16:29:33 IST 2021
+base.0=D\:\\VideoStreamingApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

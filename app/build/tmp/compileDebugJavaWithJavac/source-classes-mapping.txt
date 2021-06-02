@@ -1,0 +1,16 @@
+com/example/videostreamingapp/MainActivity.java
+ com.example.videostreamingapp.MainActivity
+ com.example.videostreamingapp.MainActivity$1
+ com.example.videostreamingapp.MainActivity$2
+com/example/videostreamingapp/BuildConfig.java
+ com.example.videostreamingapp.BuildConfig
+com/example/videostreamingapp/Video.java
+ com.example.videostreamingapp.Video
+com/example/videostreamingapp/VideoAdapter.java
+ com.example.videostreamingapp.VideoAdapter
+ com.example.videostreamingapp.VideoAdapter$1
+ com.example.videostreamingapp.VideoAdapter$ViewHolder
+com/example/videostreamingapp/Player.java
+ com.example.videostreamingapp.Player
+ com.example.videostreamingapp.Player$1
+ com.example.videostreamingapp.Player$2
